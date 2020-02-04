@@ -1,6 +1,8 @@
 body { background-color:#f5ad42;}
 
-#nav-table {width:800px;}
+#nav-table {width:800px;
+            margin: 0 auto;
+}
 
 #nav-th {width:200px; text-align:center;}
 
