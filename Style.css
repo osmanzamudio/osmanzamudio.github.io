@@ -3,9 +3,8 @@
         }  
         
         body {
-                .center {
-  margin: auto;
-}
+               
+            margin: auto;
             background-color: rgb(100, 240, 240);
         }
 
