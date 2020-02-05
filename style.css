@@ -12,7 +12,7 @@ margin: 0 auto;
 
 #nav-banner {
 display:inline-block;
-margin: 0 auto;
+margin: 0 auto; text-align:center;
 }
 
 #nav-th {width:200px; text-align:center;}
