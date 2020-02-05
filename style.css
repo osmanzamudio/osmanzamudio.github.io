@@ -8,15 +8,11 @@ background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(16,31,97,0.6502976190
 img {
 display:inline-block;
 margin: 0 auto;
-         
-text-align:center;
 }
 
 #nav-banner {
 display:inline-block;
 margin: 0 auto;
-     
-text-align:center;
 }
 
 #nav-th {width:200px; text-align:center;}
