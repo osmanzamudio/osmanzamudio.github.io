@@ -4,11 +4,10 @@ background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(16,31,97,0.6502976190
 
 #nav-table {width:800px;
             margin: 0 auto;}
-
 img {
-display:inline-block;
-margin: 0 auto; text-align:center;
-}
+    display: block;
+    margin: auto;
+    }
 
 #nav-banner {
 display:inline-block;
