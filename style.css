@@ -1,4 +1,4 @@
-body { background-color:#1989B6;
+body { background-color: #7eb1cf;
 background: rgb(2,0,36);
 background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(16,31,97,0.6502976190476191) 50%, rgba(2,116,139,1) 100%);}
 
@@ -6,7 +6,7 @@ background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(16,31,97,0.6502976190
             margin: 0 auto;}
 img {
     display: block;
-    margin: auto;
+    margin: 0 auto;
     }
 
 #nav-banner {
